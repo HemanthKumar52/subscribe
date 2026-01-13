@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+google-api-python-client
+firebase-admin
+pydantic
+python-multipart
+requests
+python-dotenv

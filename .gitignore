@@ -1,0 +1,29 @@
+# Secrets
+.env
+google-services.json
+service-account.json
+firebase-credentials.json
+*.keystore
+*.jks
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.pytest_cache/
+
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
